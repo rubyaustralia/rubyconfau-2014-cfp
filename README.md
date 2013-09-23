@@ -1,14 +1,14 @@
-# RubyConf Australia 2014 Call for Proposals
+# RubyConf Australia 2014 Call for Talk or Workshop Proposals
 
 So, you are interested in giving a talk at [RubyConf Australia 2014](http://rubyconf.org.au),
-the second Ruby conference to be held in Australia?
+the second Ruby conference to be held in Australia? or maybe would like to run a workshop?
 
-What better way to submit a talk proposal than via GitHub!
+What better way to submit a proposal than via GitHub!
 
 ## Here is what to do
 
 1. Fork this repository
-2. Copy the sample folder `example/` to `your_name-talk_name`
+2. Copy the sample folder `example/` to `talk-your_name-talk_name` or `workshop-your_name-workshop_name`
 3. Edit the `README.md` file and type a good description about your talk
    and about yourself
 4. Replace the `profile_picture.jpg` with a picture of yourself that we
