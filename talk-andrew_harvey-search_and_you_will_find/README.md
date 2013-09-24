@@ -26,9 +26,9 @@ Topics include:
  - Filtering
  - Context awareness
 
-## My Name
+## Andrew Harvey
 
-Andrew Harvey is a coffee powered automaton of unknown origins. Most commonly
+Andrew is a coffee powered automaton of unknown origins. He is most often
 found in Sydney, working on various webby challenges. He likes vim, git, ruby
 and is often found organising Ruby and Rails meetups in Sydney.
 
