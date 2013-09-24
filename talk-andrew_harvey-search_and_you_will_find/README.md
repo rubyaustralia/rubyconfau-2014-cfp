@@ -5,10 +5,11 @@ expect. Not only that, having been spoiled by google pouring money at the
 problem of search, users expect search to perform well.
 
 Being rubyists and not information retrieval specialists, it can be hard to work
-out why our chosen search solution, be it Sphinx, Solr, ElasticSearch, Postgres
-fulltext or `SELECT ... LIKE` queries, doesn't work as we expect it to.
+out why our chosen search solution doesn't work like we expect it to. Be it Sphinx, 
+Solr, ElasticSearch, Postgres fulltext or `SELECT ... LIKE` queries that's not
+always our jam and it can seem a bit like a dark art.
 
-This talk goes into some first principals of information retrieval and at the
+This talk goes into some first principles of information retrieval and at the
 other end we will have a firm grounding in how to apply these practically to
 whatever search solution you use to improve the experience of your users.
 
