@@ -16,12 +16,12 @@ High-level languages offer us the privilege of ignoring the hardware. But develo
 
 ## Jeff Casimir
 
-I the principal of Jumpstart Lab and have been teaching Ruby since 2005. In 2012 I created and ran the Hungry Academy developer training program at LivingSocial in Washington, DC. In 2013 we relocated to Denver, CO to cofound gSchool. In my undergrad work many years ago I struggled through hardware simulations and assembly, now I'm excited to show how Ruby allows you to exercise the same concepts with less pain.
+I am the principal of Jumpstart Lab and have been teaching Ruby since 2005. In 2012 I created and ran the Hungry Academy developer training program at LivingSocial in Washington, DC. In 2013 we relocated to Denver, CO to co-found gSchool. In my undergrad work many years ago I struggled through hardware simulations and Assembly, now I'm excited to show how Ruby allows you to exercise the same concepts with less pain.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/example/profile_picture.jpg)
+![Profile picture](https://raw.github.com/jcasimir/rubyconfau-2014-cfp/computing_from_first_principles/talk-jeff_casimir-computing_from_first_principles/profile_picture.jpg)
 
-- [My Company](http://jumpstartlab.com)
-- [My Twitter](https://twitter.com/j3)
-- [Past talk slides](https://speakerdeck.com/j3)
-- [Past talk feedback/ratings](http://speakerrate.com/search?utf8=%E2%9C%93&q=jeff+casimir)
-- [Past talk videos](http://www.confreaks.com/presenters/9-jeff-casimir)
+- [My company, Jumpstart Lab](http://jumpstartlab.com)
+- [j3 on Twitter](https://twitter.com/j3)
+- [Past slide decks on SpeakerDeck](https://speakerdeck.com/j3)
+- [Past talk feedback/ratings on SpeakerRate](http://speakerrate.com/search?utf8=%E2%9C%93&q=jeff+casimir)
+- [Past talk videos on Confreaks](http://www.confreaks.com/presenters/9-jeff-casimir)
