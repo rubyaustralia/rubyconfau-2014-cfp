@@ -10,10 +10,9 @@ classes, and operations on them are invoked by sending messages.
 Sound familiar?
 
 Smalltalk leaves a long shadow on the programming landscape and can be considered 
-both as an ancestor and influence on the design of Ruby.
-
-This talk introduces Smalltalk to Rubyists and covers software principles which 
-can be applied to Ruby applications, both large and small. We'll cover 
+both as an ancestor and influence on the design of Ruby.  This talk introduces 
+Smalltalk to Rubyists and covers software principles which can be applied to Ruby 
+applications, both large and small.
 
 Topics include:
 * Brief overview
