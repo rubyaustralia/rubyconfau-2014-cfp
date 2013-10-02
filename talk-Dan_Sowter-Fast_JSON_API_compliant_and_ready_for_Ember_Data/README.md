@@ -12,7 +12,7 @@ This talk is about demonstrating different approaches for developing JSON-API co
 
 Technical lead at [NetEngine](http://netengine.com.au/). Obsessive about simplicity and chicken-wings.
 
-+![Profile picture](https://2.gravatar.com/avatar/fd5c5330a82f255dddea98f070959648?d=https%3A%2F%2Fidenticons.github.com%2F1d4631dacbc90a89782ff907246768db.png&s=420)
+![Profile picture](https://2.gravatar.com/avatar/fd5c5330a82f255dddea98f070959648?d=https%3A%2F%2Fidenticons.github.com%2F1d4631dacbc90a89782ff907246768db.png&s=420)
 
 - [My website](http://dansowter.com)
 - [My twitter](https://twitter.com/dansowter)
