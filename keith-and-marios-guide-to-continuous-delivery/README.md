@@ -2,12 +2,12 @@
 
 * fast ci and tests
 * auto deploy from ci
-* rollout
+* feature flags
 * migrations
 * feature branch pull request delivery
-* 0 downtime with unicorn
-* 0 downtime with heorku
+* 0 downtime deploys
 * env for app config
+* rollback strategies
 
 Mario and Keith both did a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). There was a great response from the talk, so much so they've been asked to be interviewed for books and do the talk at the Ottowa Ruby Meetup.
 
