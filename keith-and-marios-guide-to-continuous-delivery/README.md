@@ -17,7 +17,7 @@ Mario is a Ruby on Rails developer from Perth Australia, currently working at En
 
 He also loves eating assorted types of cheeses.
 
-![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-deliver/mario_profile_picture.jpeg)
+![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-delivery/mario_profile_picture.jpeg)
 
 - [Website](http://www.mariovisic.com)
 - [Twitter](https://twitter.com/mariovisic)
@@ -34,7 +34,7 @@ In Keith's spare time, he watches many scary movies, and wins Magic Competitons.
 
 He has been involoved with Rails Camp Australia, as well as being on the organisation comittee for the Adelaide Rails Camp 2011.
 
-![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-deliver/keith_profile_picture.png)
+![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-delivery/keith_profile_picture.png)
 
 - [Website](http://keithpitt.com/)
 - [Twitter](https://twitter.com/keithpitt)
