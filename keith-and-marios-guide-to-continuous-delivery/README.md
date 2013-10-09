@@ -9,7 +9,7 @@
 * 0 downtime with heorku
 * env for app config
 
-Mario and Keith both did a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites". There was a great response from the talk, so much so they've been asked to be interviewed for books and do the talk at the Ottowa Ruby Meetup.
+Mario and Keith both did a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). There was a great response from the talk, so much so they've been asked to be interviewed for books and do the talk at the Ottowa Ruby Meetup.
 
 ## Mario Visic
 
@@ -23,8 +23,6 @@ He also loves eating assorted types of cheeses.
 - [Twitter](https://twitter.com/mariovisic)
 - [GitHub](https://github.com/mariovisic)
 - [Past talk slides - Declarative Cucumber at Sydney roro](http://mariovisic.github.com/declarative_cucumber/)
-- [Past talk slides - Keith and Marios Guide to Fast Websites](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites)
-- [Past talk video - Keith and Marios Guide to Fast Websites](http://vimeo.com/61342267)
 
 ## Keith Pitt
 
