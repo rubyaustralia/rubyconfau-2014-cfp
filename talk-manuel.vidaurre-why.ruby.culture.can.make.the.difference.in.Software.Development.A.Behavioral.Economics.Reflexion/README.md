@@ -22,10 +22,15 @@ The presentation will be very interactive. The presenter will ask the participat
 
 ### Background
 [me](http://about.me/manuel.vidaurre).born = "Guadalajara, Jal"
+
 me.passions = {:value => "adding more", :meaning => "leaving a notch in life", :people => "doing something to give them more happiness and freedom", :software => "a way to adding more happiness and freedom to the people leaving a notch in life", :gourmet => "my deepest sin", :music => "eclectic tastes", :art => "give happiness and color"]
+
 me.skills = {:mental => [:problem_solving, :good_memory, :abstract_thinking, :positive_attitude, :focus, :results_oriented], :social => [:listener, :learner, :mentor, :needs_elicitor, :mediator, :people_oriented ]}
-[me](http://about.me/manuel.vidaurre).programming = {languages => [:ruby, :js, :html, :css, :coffeescript, :python, :java, :c, :logo], :skills => [:agiledev, :patterns, :continuos_improvement, :project_management, ], :practices=> [:software_craftsmanship, :test_first, :object_thinking, :solid_principles, :refactoring, :pair_programming, :collective_ownership], paradigms => [:domain_driven_design, :lean, :behaivour_driven_design, :scrum, :xp]. :web_frameworks => [:rails, :sinatra], :tools => [:cucumber, :rspec, :capybara, :git, :jquery, :sql, :mongodb]. :segments => [:health, :real_state, :gis]}
+
+me.programming = {languages => [:ruby, :js, :html, :css, :coffeescript, :python, :java, :c, :logo], :skills => [:agiledev, :patterns, :continuos_improvement, :project_management, ], :practices=> [:software_craftsmanship, :test_first, :object_thinking, :solid_principles, :refactoring, :pair_programming, :collective_ownership], paradigms => [:domain_driven_design, :lean, :behaivour_driven_design, :scrum, :xp]. :web_frameworks => [:rails, :sinatra], :tools => [:cucumber, :rspec, :capybara, :git, :jquery, :sql, :mongodb]. :segments => [:health, :real_state, :gis]}
+
 me.past = {:jobs => {:[university_of_guadalajara](http://www.cucs.udg.mx/) => chief_of_programming_and_analysis, :[panamerican_health_organization](http://new.paho.org/hq/index.php?lang=en) => advisor_information_systems, :[johns hopkins](http://www.jhsph.edu/summerepi)}, :business => [:venyrent, :asdetec, :buzzurbano]}
+
 me.present = {:business => [:[agiltec](http://agiltec.com.mx), :[imber](http://imber.com.mx/)}
 
 [http://about.me/manuel.vidaurre](http://about.me/manuel.vidaurre)
@@ -50,16 +55,16 @@ Create and implement products, systems, applications, methods, startups and busi
   * Meaning in Life
   * Products with Soul 
 
-[@mvidaurre](https://twitter.com/#!/mvidaurre)
-fb: [manuel.enrique.vidaurre.arenas](http://www.facebook.com/manuel.enrique.vidaurre.arenas)
-Li: [manuelvidaurre](http://www.linkedin.com/in/manuelvidaurre)
-flickr: [16896625@N00](http://www.flickr.com/people/16896625@N00/)
-github: [mvidaurre](https://github.com/mvidaurre/)
+<i class=" icon-twitter"></i> [@mvidaurre](https://twitter.com/#!/mvidaurre) |
+<i class=" icon-facebook"></i> [manuel.enrique.vidaurre.arenas](http://www.facebook.com/manuel.enrique.vidaurre.arenas) | 
+<i class=" icon-linked-in"></i> [manuelvidaurre](http://www.linkedin.com/in/manuelvidaurre)
+<i class=" icon-flickr"></i>  [16896625@N00](http://www.flickr.com/people/16896625@N00/)
+<i class=" icon-github"></i>  [mvidaurre](https://github.com/mvidaurre/)
 WorkingWithRails: [12895-manuel-vidaurre](http://workingwithrails.com/person/12895-manuel-vidaurre)
 
 Visual CV: [CV](http://vizualize.me/manuel.vidaurre?r=manuel.vidaurre#.UlbrHGSgn21)
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/talk-manuel.vidaurre-why.ruby.culture.can.make.the.difference.in.Software.Development.A.Behavioral.Economics.Reflexion/profile_picture.jpg)
+![Profile picture](https://raw.github.com/mvidaurre/rubyconfau-2014-cfp/master/talk-manuel.vidaurre-why.ruby.culture.can.make.the.difference.in.Software.Development.A.Behavioral.Economics.Reflexion/profile_picture.jpg)
 
 - [My website](https://github.com/mvidaurre)
 - [My twitter](https://twitter.com/#!/mvidaurre)
