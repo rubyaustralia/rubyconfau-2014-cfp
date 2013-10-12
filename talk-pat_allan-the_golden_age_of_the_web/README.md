@@ -14,5 +14,5 @@ As well as working with talented development teams and writing [open source Ruby
 
 - [My website](http://freelancing-gods.com)
 - [My twitter](https://twitter.com/pat)
-- [Past talk slides](https://speakerdeck.com/pat/crafting-gems-railsconf-2013)
-- Past talk videos: [Crafting Gems - RailsConf 2013](http://confreaks.com/videos/2482-railsconf2013-crafting-gems) [Refactoring Community - RubyConf Australia 2013](https://vimeo.com/61172063)
+- Past talk slides: [Crafting Gems - RailsConf 2013](https://speakerdeck.com/pat/crafting-gems-railsconf-2013)
+- Past talk videos: [Crafting Gems - RailsConf 2013](http://confreaks.com/videos/2482-railsconf2013-crafting-gems), [Refactoring Community - RubyConf Australia 2013](https://vimeo.com/61172063)
