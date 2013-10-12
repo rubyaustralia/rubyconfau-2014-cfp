@@ -4,7 +4,7 @@ Congratulations. The Internet is now the centre of civilisation as we know it, a
 
 And let's ignore those storm clouds gathering on the horizon - with our talent, surely we will soar above them like Icarus towards the sun.
 
-## My Name
+## Pat Allan
 
 Pat earns his keep as a freelance web and Ruby developer based in the coworking space of [Inspire9](http://inspire9.com) in Melbourne, Australia. Often, though, you'll find him travelling around the world, attending interesting events and meeting interesting people.
 
