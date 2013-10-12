@@ -6,9 +6,9 @@ And let's ignore those storm clouds gathering on the horizon - with our talent, 
 
 ## My Name
 
-Pat earns his keep as a freelance web and Ruby developer based in the coworking space of Inspire9 in Melbourne, Australia. Often, though, you'll find him travelling around the world, attending interesting events and meeting interesting people.
+Pat earns his keep as a freelance web and Ruby developer based in the coworking space of [Inspire9](http://inspire9.com) in Melbourne, Australia. Often, though, you'll find him travelling around the world, attending interesting events and meeting interesting people.
 
-As well as working with talented development teams and writing open source Ruby libraries, he's a fan of bringing people together for gatherings small and large, including Trampoline and Rails Camp. And if you ask him nicely, he might even cook you a pancake.
+As well as working with talented development teams and writing [open source Ruby libraries](https://github.com/pat), he's a fan of bringing people together for gatherings small and large, including [Trampoline](http://trampolineday.com) and [Rails Camp](http://railscamps.com). And if you ask him nicely, he might even cook you a pancake.
 
 ![Profile picture](http://pat-public.s3.amazonaws.com/profile.jpg)
 
