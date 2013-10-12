@@ -1,8 +1,8 @@
 # The Golden Age of the Internet
 
-Congratulations. The Internet is now the centre of civilisation as we know it, and we shape the Internet. Our skills are in high demand, we are paid well, we find our work challenging and even sometimes fulfilling. These are the glory days of our industry, and we should soak up every minute of it!
+Congratulations. The Internet is now the centre of civilisation as we know it, and we shape the Internet. Our skills are in high demand, we are paid well, we find our work challenging, interesting, and even sometimes fulfilling. These are the glory days of our industry, and we should soak up every minute of it!
 
-And let's ignore those storm clouds gathering on the horizon - with our talent, surely we will soar above those like Icarus towards the sun.
+And let's ignore those storm clouds gathering on the horizon - with our talent, surely we will soar above them like Icarus towards the sun.
 
 ## My Name
 
