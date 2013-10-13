@@ -6,7 +6,7 @@ My talk description.
 
 My bio.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/example/profile_picture.jpg)
+![Profile picture](./profile_picture.jpg)
 
 - [My website](http://example.com)
 - [My twitter](https://twitter.com/twitter-handle)
