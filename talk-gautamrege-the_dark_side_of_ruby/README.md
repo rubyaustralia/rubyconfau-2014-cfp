@@ -27,7 +27,7 @@ He is an ardent promoter of Ruby on Rails and leads many of the brand’s initia
 
 In his spare time apart from spending time with his family, he is an athlete and loves playing cricket, basketball and soccer when he can. He is always on the look out to fuel his hunger for adventure like skydiving and bungee jumping.
 
-![Profile picture](https://raw.github.com/gautamrege/rubyconfau-2014-cfp/master/the-dark-side-of-ruby/profile_picture.jpg)
+![Profile picture](https://raw.github.com/gautamrege/rubyconfau-2014-cfp/master/talk-gautamrege-the_dark_side_of_ruby/profile_picture.jpg)
 
 - [My website](http://blog.joshsoftware.com)
 - [My twitter](https://twitter.com/gautamrege)
