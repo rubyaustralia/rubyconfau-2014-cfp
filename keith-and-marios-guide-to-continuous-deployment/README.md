@@ -20,7 +20,7 @@ Mario and I together performed a talk at the 2013 Ruby Australia Conference enti
 
 Mario is a Ruby on Rails developer from Perth Australia, he currently works on the [Microlancer](http://www.microlancer.com/) team at Envato in Melbourne. As well as being a Co-Founder of [Desktoppr](https://www.desktoppr.co) he has also worked on some cool projects such as [iMeducate](https://www.imeducate.com) and [Airtasker](https://www.airtasker.com)
 
-He also had a [fond love for trying differnet types of cheeses](http://www.howgoodischeese.com/).
+In his spare time he enjoys eating different types of cheeses.
 
 ![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-deployment/mario_profile_picture.jpg)
 
