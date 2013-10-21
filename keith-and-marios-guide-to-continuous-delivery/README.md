@@ -17,7 +17,7 @@ Mario is a Ruby on Rails developer from Perth Australia, currently working at En
 
 He also loves eating assorted types of cheeses.
 
-![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-delivery/mario_profile_picture.jpeg)
+![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-delivery/mario_profile_picture.jpg)
 
 - [Website](http://www.mariovisic.com)
 - [Twitter](https://twitter.com/mariovisic)
