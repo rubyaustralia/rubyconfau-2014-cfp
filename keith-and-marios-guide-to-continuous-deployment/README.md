@@ -4,14 +4,26 @@ Mario and I together performed a talk at the 2013 Ruby Australia Conference enti
 
 ## A bit about the talk we'd like to perform
 
-* Fast CI and tests
-* Auto deploy from ci
-* Feature flags
-* Migrations
-* Feature branch pull request delivery
-* Zero downtime deploys
-* Env for app config
-* Rollback strategies
+Recently it has become common practise for development teams to deploy their
+code several times a day, as well as encouraging new developers to deploy on
+their first day at work.
+
+In our talk Mario and I will discuss how we use continous deployment to push
+these practises to the extreme. Automatically deploying the master branch on
+new changes is an awesome way to improve your development process. 
+
+By the end of the talk you'll know how to change the GitHub merge pull request
+button into a deploy button.
+
+Some things we'll go over in the talk:
+
+  * How to setup your CI environment for deployments
+  * Why having fast tests are important
+  * How to use your Staging environment for testing deployments
+  * How to use feature flags to hide deployed features from *some* users
+  * Zero downtime deploys, even when there are database migrations
+  * Your new deploy button, AKA The GitHub merge pull request button
+  * What to do when deployment goes wrong
 
 
 ## A bit about us
