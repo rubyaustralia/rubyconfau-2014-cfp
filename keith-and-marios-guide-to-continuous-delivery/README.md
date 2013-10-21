@@ -1,21 +1,26 @@
-# Keith and Mario's Guide to Continuous Delivery
+# Keith and Mario's Guide to Continuous Deployment
 
-* fast ci and tests
-* auto deploy from ci
-* feature flags
-* migrations
-* feature branch pull request delivery
-* 0 downtime deploys
-* env for app config
-* rollback strategies
+Mario and I together performed a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). The talk was a lot of fun and we had a great response from the audience. We would love to come back again next year to perform another talk.
 
-Mario and Keith both did a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). There was a great response from the talk, so much so they've been asked to be interviewed for books and do the talk at the Ottowa Ruby Meetup.
+## A bit about the talk we'd like to perform
 
-## Mario Visic
+* Fast CI and tests
+* Auto deploy from ci
+* Feature flags
+* Migrations
+* Feature branch pull request delivery
+* Zero downtime deploys
+* Env for app config
+* Rollback strategies
 
-Mario is a Ruby on Rails developer from Perth Australia, currently working at Envato in Melbourne. As well as being a Co-Founder of [Desktoppr](https://www.desktoppr.co) he has also worked on some cool projects such as [iMeducate](https://www.imeducate.com) and [Airtasker](https://www.airtasker.com)
 
-He also loves eating assorted types of cheeses.
+## A bit about us
+
+### Mario Visic
+
+Mario is a Ruby on Rails developer from Perth Australia, he currently works on the [Microlancer](http://www.microlancer.com/) team at Envato in Melbourne. As well as being a Co-Founder of [Desktoppr](https://www.desktoppr.co) he has also worked on some cool projects such as [iMeducate](https://www.imeducate.com) and [Airtasker](https://www.airtasker.com)
+
+He also had a [fond love for trying differnet types of cheeses](http://www.howgoodischeese.com/).
 
 ![Profile picture](https://raw.github.com/keithpitt/rubyconfau-2014-cfp/master/keith-and-marios-guide-to-continuous-delivery/mario_profile_picture.jpg)
 
@@ -24,7 +29,7 @@ He also loves eating assorted types of cheeses.
 - [GitHub](https://github.com/mariovisic)
 - [Past talk slides - Declarative Cucumber at Sydney roro](http://mariovisic.github.com/declarative_cucumber/)
 
-## Keith Pitt
+### Keith Pitt
 
 Keith is a Ruby Developer from Adelaide living in Melbourne. By day he works at [Pin Payments](http://www.pin.net.au) and by night he works on [Buildbox](https://buildbox.io).
 
