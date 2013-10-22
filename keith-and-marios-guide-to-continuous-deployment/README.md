@@ -9,7 +9,7 @@ these practises to the extreme. Automatically deploying the master branch on
 new changes is an awesome way to improve your development process.
 
 Automatically deploying master will fundamentally change how you work. Gone are
-the days of the epic pull requests. You'll quickly find yourself writing smaller more
+the days of the epic pull request. You'll quickly find yourself writing smaller more
 managable chunks of code, that overall have a great impact on the quality of the
 software you produce.
 
