@@ -1,4 +1,4 @@
-# Keith and Mario's Guide to Continuous Deployment
+# Keith and Mario's Guide to Continuous Deployment with Rails
 
 Recently it has become common practise for development teams to deploy their
 code several times a day, as well as encouraging new developers to deploy on
