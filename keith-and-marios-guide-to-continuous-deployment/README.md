@@ -1,19 +1,20 @@
 # Keith and Mario's Guide to Continuous Deployment
 
-Mario and I together performed a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). The talk was a lot of fun and we had a great response from the audience. We would love to come back again next year to perform another talk.
-
-## A bit about the talk we'd like to perform
-
 Recently it has become common practise for development teams to deploy their
 code several times a day, as well as encouraging new developers to deploy on
 their first day at work.
 
 In our talk Mario and I will discuss how we use continous deployment to push
 these practises to the extreme. Automatically deploying the master branch on
-new changes is an awesome way to improve your development process. 
+new changes is an awesome way to improve your development process.
+
+Automatically deploying master will fundamentally change how you work. Gone are
+the days of the epic pull requests. You'll quickly find yourself writing smaller more
+managable chunks of code, that overall have a great impact on the quality of the
+software you produce.
 
 By the end of the talk you'll know how to change the GitHub merge pull request
-button into a deploy button.
+button into a deploy button - and have the confidence to do so.
 
 Some things we'll go over in the talk:
 
@@ -25,8 +26,9 @@ Some things we'll go over in the talk:
   * Your new deploy button, AKA The GitHub merge pull request button
   * What to do when deployment goes wrong
 
-
 ## A bit about us
+
+Mario and I together performed a talk at the 2013 Ruby Australia Conference entitled "Keith and Mario's Guide to Fast Websites" ([slides](https://speakerdeck.com/keithpitt/keith-and-marios-guide-to-fast-websites), [video](http://vimeo.com/61342267)). The talk was a lot of fun and we had a great response from the audience. We would love to come back again next year to perform another talk.
 
 ### Mario Visic
 
