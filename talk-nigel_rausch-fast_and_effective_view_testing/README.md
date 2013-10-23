@@ -1,8 +1,8 @@
 # Fast & Effective View Testing
 
-Too many people use integration tests to check if an element is displayed or not, this is slow and cumbersome. Another solution is to use rspec view specs which end up creating a lot of duplicated code and scenarios.
+Many people use integration tests to check if an element is displayed or not, which is slow and cumbersome. Others use RSpec view specs, which end up creating duplicated code and scenarios. 
 
-In this presentation we will review the core problem and then I will show you a fast and consistent way of testing multiple elements are (or are not) displayed based on a context.
+In this presentation Nigel will reveal a better solution. We will review the core problem and then examine a fast and consistent way of testing whether multiple elements are (or are not) displayed, based on a context.
 
 ## Nigel Rausch
 
