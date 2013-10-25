@@ -6,7 +6,7 @@ Ruby has one of the most unique and volatile communities in all of the programmi
 
 I work on community and developer relations at Engine Yard. In my spare time, I get distracted by shiny things. I really want a French bulldog.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/talk-elaine_greenberg-community_from_the_frontlines/profile_picture.jpg)
+![Profile picture](./profile_picture.jpg)
 
 - [My website](http://about.me/ejgreenberg)
 - [My twitter](https://twitter.com/ejgreenberg)
