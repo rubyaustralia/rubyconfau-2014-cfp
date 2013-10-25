@@ -1,6 +1,6 @@
-# Community From The Front lines
+# Community From The Front Lines
 
-This talk will look back at how the Ruby community has progressed in the past couple of years. I will cover its progress, setbacks and how the community can grow and improve.
+Ruby has one of the most unique and volatile communities in all of the programming world. Most recently, a number of social issues have come to light that have had a dramatic effect on the health of our community. This talk will look back at how the Ruby community has progressed in the past couple of years, where it has failed us and where it has pushed us forward. I will cover its progress (such as the aggressive effort to educate and train women with programs like RailsBridge and Rails Girls), setbacks (such as a continuing aggression toward minorities) and how the community can grow and improve.
 
 ## Elaine Greenberg
 
