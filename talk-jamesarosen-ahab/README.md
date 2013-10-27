@@ -25,7 +25,7 @@ Ruby and JavaScript, with a focus on front-end quality and performance
 engineering. He holds a degree in Information Security from Carnegie Mellon,
 as well as degrees in Music and Italian Culinary Arts. He prefers his spaghetti all'arrabbiata and his code non-spaghetti-like.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/example/profile_picture.jpg)
+![Profile picture](https://raw.github.com/jamesarosen/rubyconfau-2014-cfp/jamesarosen/ahab/talk-jamesarosen-ahab/profile_picture.png)
 
 - [My twitter](https://twitter.com/jamesarosen)
 - [Past talk slides](http://github.com/jamesarosen/presentations)
