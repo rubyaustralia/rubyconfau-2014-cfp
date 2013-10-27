@@ -1,6 +1,6 @@
 # Finding things with Amazon Cloud Search and (Active)-Asari
 
-Amazon Cloud Search provides a powerful mechanism for adding search to your application…. It automatically sales things for you and indexes your data as you add thing. Integrating it with your Ruby application can be a challenge, especially in multiple environments. It has crazy domain names, and requires a lot of glue code to automate spinning up environments, and search operations. Thankfully we have Asari and Active-Asari to make that easier. Join us as we talk about search, tools you can use and how Asari and Active-Asari can make it more approachable when you need to move beyond database and solr based search in your application.
+Amazon Cloud Search provides a powerful mechanism for adding search to your application…. It automatically scales things for you and indexes your data as you add thing. Integrating it with your Ruby application can be a challenge, especially in multiple environments. It has crazy domain names, and requires a lot of glue code to automate spinning up environments, and search operations. Thankfully we have Asari and Active-Asari to make that easier. Join us as we talk about search, tools you can use and how Asari and Active-Asari can make it more approachable when you need to move beyond database and solr based search in your application.
 
 ## Lance Gleason
 
