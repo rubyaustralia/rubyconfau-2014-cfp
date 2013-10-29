@@ -12,7 +12,7 @@ Ivan Vanderbyl takes everything too seriously, this is why his bio is best kept 
 Officially Ivan is the CTO at App.io where he spends most of his time making mistakes while writing Go, Javascript, and Ruby.
 
 
-![Profile picture](https://raw.github.com/ivanvanderbyl/rubyconfau-2014-cfp/master/talk-ruby_is_not_for_entrepreneurs/profile_picture.jpg)
+![Profile picture](https://raw.github.com/ivanvanderbyl/rubyconfau-2014-cfp/master/talk-ivanvanderbyl_ruby_is_not_for_entrepreneurs/profile_picture.jpg)
 
 - [My website](http://ivanvanderbyl.com)
 - [My twitter](https://twitter.com/ivanvanderbyl)
