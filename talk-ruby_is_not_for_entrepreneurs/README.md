@@ -9,6 +9,9 @@ Integration service in Ruby was a bad idea and where it all went wrong, and how 
 
 Ivan Vanderbyl takes everything too seriously, this is why his bio is best kept as: "Tall, extremely caffeinated rubyist/programmer" as that is pretty much what he's been doing for a while; programming caffeine and drinking rubies.
 
+Officially Ivan is the CTO at App.io where he spends most of his time making mistakes while writing Go, Javascript, and Ruby.
+
+
 ![Profile picture](https://raw.github.com/ivanvanderbyl/rubyconfau-2014-cfp/master/talk-ruby_is_not_for_entrepreneurs/profile_picture.jpg)
 
 - [My website](http://ivanvanderbyl.com)
