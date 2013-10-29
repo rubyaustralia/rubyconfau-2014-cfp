@@ -9,7 +9,7 @@ Integration service in Ruby was a bad idea and where it all went wrong, and how 
 
 Ivan Vanderbyl takes everything too seriously, this is why his bio is best kept as: "Tall, extremely caffeinated rubyist/programmer" as that is pretty much what he's been doing for a while; programming caffeine and drinking rubies.
 
-![Profile picture](talk-tales-from-the-dark-side-what-happened-to-testpilot-ci/profile_picture.jpg)
+![Profile picture](/talk-tales-from-the-dark-side-what-happened-to-testpilot-ci/profile_picture.jpg)
 
 - [My website](http://ivanvanderbyl.com)
 - [My twitter](https://twitter.com/ivanvanderbyl)
