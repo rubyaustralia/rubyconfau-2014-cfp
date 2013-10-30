@@ -1,14 +1,22 @@
-# Find & Remove fog particles using 'Flog' 
+# find-and-remove mysterious fog particles 
 
-Knowingly or unknowingly we add lot of fog particles to our code which in turn adds complexity, but often we can't catch and get rid of them easily. 
+Mysterious fog particles are mysterious because, sometimes we can't see them, and even if we see them, we can't get rid of them.
 
-This talk is about how we add complexity to code, what we mean by a 'complex code' & how we knowingly or unknowingly make it a 'bad' code. 
-We will see how gem "flog" can smell the complexities in our code and way it can help to reduce those complexities.
-This talk will also let you know about few gems which can help you to reduce complexities in your code.
+Knowingly or unknowingly we add lot of mysterious fog particles to our code, but often, after adding them we can't get rid of them easily. 
+
+This talk is about, 
+* how "we" ourselves add these fog particles to our very own code,
+* what are these mysterious particles &    
+* how to indentify & remove them,
+* thereby making our code much more cleaner and less complex.    
+Generally these mysterious fog particles are nothing but our own coding practices, which results in generation of these particles, thereby spoiling our code quality.
+
+So i am going to walk you through different gems (like 'flog', 'flay'), that can smell these mysterious fog particles in our code and the ways they can help us to reduce these particles and ultimately turn a bad code into a good one.
+This talk ultimately is - to easily find-and-remove mysterious complexities from our code.
 
 ## Swapnil Chincholkar
 
-Swapnil started his career in software industry with Josh family after he persued his graduation degree in 2011 from D.E.S's Fergusson College, Pune, India. 
+Swapnil started his career in software industry from January 2011, with Josh family, India’s leading company in building innovative web applications working exclusively in Ruby On Rails since 2007. 
 
 Apart from coding, he likes to enjoy his time with team-mates, college friends. He is foodie person, loves travelling and photography.
 
@@ -17,4 +25,4 @@ Apart from coding, he likes to enjoy his time with team-mates, college friends. 
 - [My website](http://blog.joshsoftware.com)
 - [My twitter](https://twitter.com/swapnilvch)
 - [Lanyrd Profile](http://lanyrd.com/profile/swapnilvch)
-- [Github Profile](http://github.com/profile/swapnilchincholkar)
+- [Github Profile](http://github.com/swapnilchincholkar)
