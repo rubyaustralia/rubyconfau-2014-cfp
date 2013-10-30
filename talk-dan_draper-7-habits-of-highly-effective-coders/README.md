@@ -14,5 +14,5 @@ Over the years I've lost my hair, been yelled at (read: almost dumped) by girlfr
 
 ![Profile picture](http://m.c.lnkd.licdn.com/media/p/2/000/25a/086/25abc1c.jpg)
 
-- [My website](http://codehire.com)
-- [My twitter](https://twitter.com/danieldraper)
+- [www.codehire.com](http://codehire.com)
+- [@danieldraper](https://twitter.com/danieldraper)
