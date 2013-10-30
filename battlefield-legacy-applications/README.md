@@ -14,7 +14,7 @@ Sebastian, originally from Germany, is a freelance Web-Developer with five years
 
 Before he joined the R&D team at [Bulletproof](http://www.bulletproof.net) as a remote-contractor, he was lucky enough to work with and learn from great people at [Ennova](http://ennova.com.au), [9flats](http://9flats.com), [tmp8](http://tmp8.de) and [Ubilabs](http://www.ubilabs.net/en).
 
-![Profile picture](https://raw.github.com/skorfmann/rubyconfau-2014-cfp/battlefield-legacy-applictions/battlefield-legacy-applications/profile_picture.jpg)
+![Profile picture](https://raw.github.com/skorfmann/rubyconfau-2014-cfp/battlefield-legacy-applications/battlefield-legacy-applications/profile_picture.jpg)
 
 - [My website](http://skorfmann.com)
 - [My twitter](https://twitter.com/skorfmann)
