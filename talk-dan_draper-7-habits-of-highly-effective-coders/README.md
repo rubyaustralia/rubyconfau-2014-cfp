@@ -1,6 +1,6 @@
 # The 7 Habits of Highly Effective Coders
 
-Inspired by the book, The 7 Habits of Highly Effective People, this talk will cover 7 habits that great coders often employ (or perhaps should employ) when working professionally or for fun.
+Inspired by the book, [The 7 Habits of Highly Effective People](http://www.amazon.com/The-Habits-Highly-Effective-People/dp/0743269519), this talk will cover 7 habits that great coders often employ (or perhaps should employ) when working professionally or for fun.
 Covering the technical to the social and the psychological, the 7 Habits of Highly Effective Coders will help coders deliver great code, stay focused, remain highly employable
 and maintain a good code-life balance.
 
