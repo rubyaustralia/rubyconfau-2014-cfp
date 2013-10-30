@@ -8,7 +8,7 @@ This is a story of a real life project built from day 1 with all these questions
 
 Benjamin Smith is a developer at Pivotal Labs. He has a strong passion for TDD, pairing, Agile and using technologies that get out of the programmer's way. When not writing code, he follows his other passions into the outdoors to rock climb, back country snowboard, and surf.
 
-![Profile picture](https://raw.github.com/benjaminleemsmith/rubyconfau-2014-cfp/talk-benjamin_smith-how_i_architected_my_big_rails_app_for_success/profile_picture.jpg)
+![Profile picture](https://raw.github.com/benjaminleesmith/rubyconfau-2014-cfp/master/talk-benjamin_smith-how_i_architected_my_big_rails_app_for_success/profile_picture.jpg)
 
 - [My website](http://pivotallabs.com/author/bsmith/)
 - [My twitter](https://twitter.com/benjamin_smith)
