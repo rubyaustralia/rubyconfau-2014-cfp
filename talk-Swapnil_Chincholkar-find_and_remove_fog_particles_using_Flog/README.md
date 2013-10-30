@@ -12,7 +12,7 @@ Swapnil started his career in software industry with Josh family after he persue
 
 Apart from coding, he likes to enjoy his time with team-mates, college friends. He is foodie person, loves travelling and photography.
 
-![Profile picture](https://raw.github.com/swapnilchincholkar/rubyconfau-2014-cfp/master/example/profile_picture.jpg)
+![Profile picture](https://raw.github.com/swapnilchincholkar/rubyconfau-2014-cfp/master/talk-Swapnil_Chincholkar-find_and_remove_fog_particles_using_Flog/profile_picture.jpg)
 
 - [My website](http://blog.joshsoftware.com)
 - [My twitter](https://twitter.com/swapnilvch)
