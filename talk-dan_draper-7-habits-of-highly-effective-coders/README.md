@@ -8,7 +8,7 @@ Be warned, some of these habits might not be what you expect!
 
 ## Dan Draper
 
-Over the years I've lost my hair, been yelled at (read: almost dumped) by girlfriends and forgotten to eat while glued to a keyboard. But I *have* learned some super valuable lessons and I'd love to share them.
+Over the years I've lost my hair, been yelled at (read: almost dumped) by girlfriends and forgotten to eat while glued to a keyboard but I *have* learned some super valuable lessons! Hopefully, I can impart some knowledge and help make you a more effective coder!
 
 I've been coding since I was 12 years old and professionally since my early twenties. I've worked in large teams as well as on my own. I've run three of my own startups, in one of which I managed a team of 10 coders. These days I program in Ruby and use the Rails framework while running codehire.com, a tech recruitment platform.
 
