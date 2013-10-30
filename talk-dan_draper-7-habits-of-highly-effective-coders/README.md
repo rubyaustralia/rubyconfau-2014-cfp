@@ -4,7 +4,7 @@ Inspired by the book, [The 7 Habits of Highly Effective People](http://www.amazo
 Covering the technical to the social and the psychological, the 7 Habits of Highly Effective Coders will help coders deliver great code, stay focused, remain highly employable
 and maintain a good code-life balance.
 
-Be warned, some of these habits might not be what you expect!
+_Be warned, some of these habits might not be what you expect!_
 
 ## Dan Draper
 
