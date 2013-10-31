@@ -1,19 +1,20 @@
-# The Boundary Between Your Code and the Web
+# Application Architecture: Boundaries, Object Rules & Patterns
 
-This talk is about something important in the community. Everyday more
-and more people come to ruby through rails. Then they start to build
-to their application _in_ rails and not outside of rails. This is a
-huge problem in our community as we don't seem to respect the boundary
-between frameworks and our code. My talk is about providing a new
-architecture based on solid OOP principles such as the boundary
-between objects, SRP, proper logic less views, application patterns,
-and good testing principles.
+This talk is about something important in the community. The ruby
+community is missing something fundamentally important. We don't know
+how to architect applications. We've grown accustomed to using
+frameworks for everything and we've lost our way. We no longer talk
+about making applications, we speak about applications build _in_
+frameworks. Example: oh hey man, did you hear NewApp123 is built _in_
+rails? I take offense to that. The application is not built in rails,
+it's built in _ruby_ than rails is _used_ to put it online. This
+mentality is prevalent in the community. It's damaging and encourages
+technical debt.
 
-The talk is based on an upcoming paper on this same topic. I've done
-workshops on this already. The clients are very receptive to the
-approach. I've also implemented this on www.radiumcrm.com as well as
-transforming the architecture of currently entrenched rails
-applications.
+My talk is about providing a new architecture based on solid OOP
+principles such as the boundary between objects, SRP, proper logic
+less views, application patterns, and good testing principles. All of
+this in name of changing the way we write and maintain applications.
 
 The talk follows this format:
 
@@ -22,9 +23,9 @@ The talk follows this format:
 * TDD implementation of use cases, forms, models, and other object roles
 * TDD implementation of HTTP delivery mechanism using Sinatra
 * Problems withs Rails & Rails style MVC approach to web applications
-* The ideal stack: calling out gems that exemplify qualities mentioned in previous parts of the paper
+* The ideal stack: calling out gems that exemplify qualities mentioned earlier
 * Wrap up & conclusion
-* How to migrate and redsign current systems
+* How to migrate and redesign current systems
 
 Note: the paper will have been published well before the conference.
 
