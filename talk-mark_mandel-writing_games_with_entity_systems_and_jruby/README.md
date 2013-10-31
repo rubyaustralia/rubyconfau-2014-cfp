@@ -1,7 +1,7 @@
-#Intro to Graph Databases
-Graph databases have increasingly become more popular when operating on highly interconnected data sets such as social network graphs and data powering recommendation engines.
+#Writing Games with Entity Systems and JRuby
+Entity Systems are a relatively new style of software development that came out of the game industry to avoid some of the common architectural pitfalls of Object Oriented programming when developing games, and attempt to provide a much cleaner separation between aspects such as rendering, physics, AI and other parts of a game's ecosystem.
 
-Working with Ruby and some of the more popular graph databases, we will cover the definition of a graph database and explore some common scenarios in which graph databases can really shine over their traditional SQL and noSQL counterparts.
+In this talk we'll live code a simple game with JRuby and libGDX and provide it with some interactivity and physics so you can get a feel for how Entity Systems work, and inspire you with your own game architectures.  Not only limited to games, this talk should also make you think about how you design other types of software that have a view layer powered by a highly dynamic data set.
 
 ## Mark Mandel
 
