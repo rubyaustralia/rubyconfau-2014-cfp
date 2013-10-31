@@ -1,6 +1,6 @@
 # Beyond Platform As A Service (PaaS)
 
-When it comes to deploying web applications most Rubysts turn to Plaform as a Service (PaaS) solutions like Heroku and Engine Yard which is cool, but it has it's limitations. Let's level up! 
+When it comes to deploying web applications most Rubysts turn to Plaform as a Service (PaaS) solutions like Heroku and Engine Yard which is cool, but it can limit the gems and external processes you can use. Let's level up! 
 
 In this session I am going to show you how to roll your own IaaS cloud environment for maximum flexibility and control. I will use the popular fog gem to demonstrate how to do the following:
 
