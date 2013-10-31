@@ -15,7 +15,7 @@ In the age of Ruby growing pains and monolithic Rails applications, smaller
 is better. Let's talk about how breaking things down into smaller units, smaller
 services & components brings us benefits. Examine how we can use composition
 not inheritance or mixins to build smaller classes, faster tests and better
-design
+designed applications.
 
 ## Jon Rowe
 
