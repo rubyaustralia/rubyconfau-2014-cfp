@@ -10,7 +10,7 @@ Jack spends most of his days contracting with agencies and companies building al
 
 He has recently begun creating screencasts about his adventures with RubyMotion, and has found a small group of 20 subscribers together to help him get the screencasts focused on the important topics and on important "features" of the screencast, like every episode being done using behavior driven development.
 
-![Profile picture](https://raw.github.com/FluffyJack/rubyconfau-2014-cfp/master/talk-jack_watson_hamblin-ruby_anywhere/profile_picture.jpg)
+![Profile picture](https://raw.github.com/FluffyJack/rubyconfau-2014-cfp/master/talk-jack_watson_hamblin-building_for_ios_and_osx_with_ruby_rubymotion_is_awesome/profile_picture.jpg)
 
 - [My website](http://www.fluffyjack.com)
 - [My twitter](https://twitter.com/FluffyJack)
