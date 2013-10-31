@@ -2,7 +2,7 @@
 
 Believe it or not, proper application security isn't just for banks or the NSA.
 Recent high-profile attacks have cost web companies millions of dollars and
-thousands of users. These attacks beg the question, how should you protect your
+thousands of users. These attacks raise the question, how should you protect your
 business and customers? You are probably salting your hashes and encrypting your
 traffic already, but there are much more fundamental elements of Ruby application
 security that you should employ throughout the development process.
