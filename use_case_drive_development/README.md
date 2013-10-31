@@ -26,6 +26,8 @@ The talk follows this format:
 * Wrap up & conclusion
 * How to migrate and redsign current systems
 
+Note: the paper will have been published well before the conference.
+
 ## My Name
 
 Adam is a rubyist, rails guy, and general open source nerd. He loves
