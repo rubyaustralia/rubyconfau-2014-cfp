@@ -4,8 +4,10 @@ As developers, we're required to be on the very edge of technological innovation
 
 ## Sean Hussey
 
-Sean began programming on his friend's Commodore 64 back before you were wearing short pants. His first job was writing tape backup utilities for IBM System 36 at Northeastern University. Today he's a Professional Expert Generalist, specializing in process improvement and automation. When he's not trying to make things better for others through technology, he can be found encouraging his children to explore, create, and to pick up their toys.
+Sean began programming on his friend's Commodore 64 back before you were wearing short pants. His first job was writing tape backup utilities for IBM System 36 at Northeastern University. Today he's a Professional Expert Generalist, specializing in process improvement and automation. He's spoken at the Boston Ruby Group, the Rakuten Technology Conference, and was an organizer of Boston's first annual Ruby conference, Wicked Good Ruby Conf. When he's not trying to make things better for others through technology, he can be found encouraging his children to explore, create, and to pick up their toys.
 
 ![Profile picture](https://raw.github.com/seanhussey/rubyconfau-2014-cfp/master/talk-sean_hussey-adventures_in_creating_a_career/profile_picture.jpg)
 
 - [My twitter](https://twitter.com/seanhussey)
+- [Wicked Good Ruby](http://wickedgoodruby.com)
+
