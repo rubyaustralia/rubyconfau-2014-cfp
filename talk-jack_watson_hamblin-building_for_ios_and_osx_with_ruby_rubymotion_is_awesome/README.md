@@ -1,4 +1,4 @@
-# Building for iOS with Ruby (RubyMotion is Awesome!)
+# Building for iOS and OS X with Ruby (RubyMotion is Awesome!)
 
 The world of developing iOS and OS X applications can be a scary one. Objective-C is a bizzare looking language for most Ruby developers, Xcode is a complex tool and learning to use all the parts you need can be really hard, and then there is the frameworks... THERE IS SO MANY OF THEM!
 
