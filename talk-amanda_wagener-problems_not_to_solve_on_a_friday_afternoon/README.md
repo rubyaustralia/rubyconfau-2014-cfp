@@ -14,7 +14,7 @@ And if you can solve them in an efficient manner on a Friday afternoon, there's 
 
 Amanda Wagener is a freelance Ruby developer from Christchurch, New Zealand, but can often be found almost anywhere around the globe. She has a programming husband she convinced to switch to Ruby, and a three month old son who has already attended his first Ruby meetup. 
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/talk-amanda_wagener-the_parental_programmer/profile_picture.jpg)
+![Profile picture](https://raw.github.com/awagener/rubyconfau-2014-cfp/problems_not_to_solve_on_a_friday_afternoon/talk-amanda_wagener-problems_not_to_solve_on_a_friday_afternoon/profile_picture.jpg)
 
 - [My website](http://awagener.com)
 - [My twitter](https://twitter.com/a_wagener)
