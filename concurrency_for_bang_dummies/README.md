@@ -8,7 +8,7 @@ Kerri Miller is a Sr Software Developer and Team Lead based in the Pacific North
 
 ![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/concurrency_for_bang_dummies/profile_picture.jpg)
 
-- [My website](http://example.com)
-- [My twitter](https://twitter.com/twitter-handle)
-- [Past talk slides](http://example.com)
-- [Past talk video](http://example.com)
+- [My website](http://kerrizor.com)
+- [My twitter](https://twitter.com/kerrizor)
+- [Past talk slides](https://speakerdeck.com/kerrizor/failure-for-fun-and-profit)
+- [Past talk video](http://steelcityruby.confbots.com/video/72770891)
