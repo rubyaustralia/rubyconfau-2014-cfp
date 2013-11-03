@@ -2,11 +2,14 @@
 
 I want to talk about the bits of launching a product as a small
 team that are hard and more important. I won't be talking about
-optimising , 
+optimising your rails stack, writing better code or stuff like that.
 
 Instead, I'll be taking a look at the story of the development
 of our application, [Discovr](http://discovr.info) - over the period
-of just over a year (with two backend developers and a team of others).
+of just over a year (with two backend developers and a team of others)
+and how we fought the product and code fires that came up during that
+came up during our development lifecycle - and when we launched and got
+a barrage of updating users and media coverage (e.g. TechCrunch).
 
 It'll cover:
 
