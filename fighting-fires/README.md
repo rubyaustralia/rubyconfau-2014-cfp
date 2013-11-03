@@ -34,7 +34,7 @@ Think of it like one of those road trip movies, were not only do you
 (hopefully) get a little bit of knowledge, not a lot of substance but
 in theory you get to laugh a little along the way.
 
-## My Name
+## Darcy Laycock
 
 Darcy is a Developer from Melbourne, Australia. He works building backend systems and infrastructure
 for [Discovr](http://discovr.info/) as well as working on a lot of [Open Source Code](https://github.com/Sutto).
