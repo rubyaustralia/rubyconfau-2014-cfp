@@ -8,7 +8,7 @@ things to be faster.
 You move your logic out into workers and do the work in the background.
 
 This talk is going to be all about Sidekiq - a threaded background job implementation
-written in Ruby - and, in two parts: How you can use and abuse it.
+written in Ruby - and, in two parts: How you can use it and how you can bend it to your will.
 
 ### Part 1: Intro to Sidekiq
 
