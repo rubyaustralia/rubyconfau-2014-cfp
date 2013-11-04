@@ -10,6 +10,9 @@ to automatically correct them for you.
 RuboCop is configurable. Each guideline is enforced by a single cop, which can be disabled, or
 configured to represent a modified guideline.
 
+This talk will include how to use RuboCop, including configuration, what is can detect,
+and how it can be useful.
+
 ## Andrew Grimm
 
 Andrew Grimm is a bioinformatician at the University of New South Wales in Sydney, Australia.
