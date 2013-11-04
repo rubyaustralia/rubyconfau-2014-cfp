@@ -16,5 +16,6 @@ Officially Ivan is the CTO at App.io where he spends most of his time making mis
 
 - [My website](http://ivanvanderbyl.com)
 - [My twitter](https://twitter.com/ivanvanderbyl)
+- [Past talk slides](https://slid.es/ivanvanderbyl/continuously-deploying-everything/) _(Melbourne Ruby, Oct 2013)_
 - [Past talk slides](https://speakerdeck.com/ivanvanderbyl)
 - [Past talk video](https://vimeo.com/55489292)
