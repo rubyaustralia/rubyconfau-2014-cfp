@@ -10,8 +10,8 @@ to automatically correct them for you.
 RuboCop is configurable. Each guideline is enforced by a single cop, which can be disabled, or
 configured to represent a modified guideline.
 
-This talk will include how to use RuboCop, including configuration, what is can detect,
-and how it can be useful.
+This talk will cover how to use RuboCop, including configuration, what it can detect,
+and how it is useful.
 
 ## Andrew Grimm
 
