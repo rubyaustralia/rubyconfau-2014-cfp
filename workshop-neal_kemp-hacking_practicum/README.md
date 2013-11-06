@@ -30,7 +30,7 @@ Ruby application.
 ## Neal Kemp
 
 Neal is an independent consultant who slings Ruby code for a variety of clients.
-In the past, he has worked as developer at thoughtbot and ZURB. Neal's composition
+In the past, he has worked as a developer at thoughtbot and ZURB. Neal's composition
 is one part developer one part hacker. He has been developing on the web
 since marquees were cool, and his interest in security started when he began
 exploiting vulnerabilities on Myspace for fun.
