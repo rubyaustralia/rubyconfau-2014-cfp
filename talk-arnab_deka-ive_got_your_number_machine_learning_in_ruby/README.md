@@ -39,5 +39,7 @@ from Bangalore), and has been writing Ruby (i.e. having fun) since
 
 Past talk slides:
 
-+ [Ruby vs The World](http://slid.es/arda_banek/ruby-vs-the-world): at
-  RailsGarden Bangalore, a Ruby/RoR workshop for students.
++ [Ruby vs The World](http://slid.es/arnab_deka/ruby-vs-the-world): at
+  RailsGarden Bangalore, a Ruby/RoR workshop for students, in Aug'13.
++ [Remote Pair Programming](http://slid.es/arnab_deka/pairwithme-remotely):
+  at Bangalore RUG meetup in Oct'13.
