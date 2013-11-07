@@ -31,7 +31,7 @@ Arnab is a Senior Software Engineer at LivingSocial (working remotely
 from Bangalore), and has been writing Ruby (i.e. having fun) since
 2008. Prior to this, Arnab was with AWS at Amazon.com in Seattle.
 
-![Profile picture](https://raw.github.com/rubyaustralia/rubyconfau-2014-cfp/master/talk-arnab_deka-ive_got_your_number_machine_learning_in_ruby/profile_picture.jpg)
+![Profile picture](https://raw.github.com/arnab/rubyconfau-2014-cfp/cfp/arnab-ml-in-ruby/talk-arnab_deka-ive_got_your_number_machine_learning_in_ruby/profile_picture.jpg)
 
 - [http://arnab-deka.com/](http://arnab-deka.com/)
 - [@arnab_deka](https://twitter.com/arnab_deka)
