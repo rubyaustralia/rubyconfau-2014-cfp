@@ -6,7 +6,7 @@ Our applications have the potential to produce a lot of data. Every time a user 
 
 Lance has been a computer nut ever since his dad bought him a VIC 20 in the 1980s. After nearly a decade as a Java developer for companies like Kodak, CNN, and GE, he decided to end his addiction to heavy inheritance, static typing, and coding without tests. These days, he practices clean Ruby living with lots of well-tested code, class composition, and fun dynamic languages as a developer/startup CTO for hire with extensive experience in data science and committer on open source projects such as the Passbook-iOS, Asari and Active Asari Gems. He is known to practice interspecies pair (purr) programming with his orange tabby, Allie, and when he's not writing code, you will find him diving with sharks, trekking through Chernobyl, sampling wine, cheering on the Springboks or perfecting his biltong recipe.
 
-![Profile picture](https://github.com/lgleasain/rubyconfau-2014-cfp/tree/analytics/talk-analytics_for_the_busy_ruby_developer/profile_picture.jpg)
+![Profile picture](https://raw.github.com/lgleasain/rubyconfau-2014-cfp/analytics/talk-analytics_for_the_busy_ruby_developer/profile_picture.jpg)
 
 - [My website](http://www.polyglotprogramminginc.com)
 - [My twitter](https://twitter.com/lgleasain)
