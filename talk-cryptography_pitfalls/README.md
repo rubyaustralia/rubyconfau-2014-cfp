@@ -1,6 +1,6 @@
 # Cryptography Pitfalls
 
-As developers we often do a poor job of implementing cryptography and other security measures in our systems. Often the primitives used are out of date and overlook very subtle flaws. These mistakes lead to systems that are hopelessly insecure despite our perception that we’ve build an impenetrable fortress. Fortunately there are a few tools and techniques at our disposal that can ease some of the pain. In this talk we’ll explore some of the most common pitfalls developers encounter with cryptography and restore some of our sanity.
+As developers we often do a poor job of implementing cryptography and other security measures in our systems. Often the primitives used are out of date and overlook very subtle flaws. These mistakes lead to systems that are hopelessly insecure despite our perception that we've build an impenetrable fortress. Fortunately there are a few tools and techniques at our disposal that can ease some of the pain. In this talk we'll explore some of the most common pitfalls developers encounter with cryptography and restore some of our sanity.
 
 * Specific topics:
 * Misusing cryptographic primitives
