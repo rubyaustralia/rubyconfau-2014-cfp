@@ -35,3 +35,16 @@ problems with advanced data structures at SoundCloud in Berlin.
   - [dotRB 2013 - The History of Technology Booms](http://blog.bignerdranch.com/4152-dotrb-getting-plugged-in-at-a-wireless-less-conference/) (video not yet posted)
   - [Changelog Podcast - Episode 0.6.5](http://changelogshow.com/105/28859-episode-0-6-5-code-for-america-with-erik-michaels-ober-and-max-ogden) (audio only)
   - [Ruby Rogues Podcast - Episode 127](http://rubyrogues.com/127-rr-erik-michaels-ober/) (audio only)
+
+## Victoria Friedman
+
+Victoria learned to program at the Flatiron School in New York City, where she
+fell in love with the Ruby language and community. She was a 2013 RubyConf
+Opportunity Scholar and currently works at Time Inc as the lead developer on
+MyRecipes.com, the 806th most popular site on the web.
+
+![Victoria Friedman](https://raw.github.com/sferik/rubyconfau-2014-cfp/workshop-advanced_data_structures_in_ruby/workshop-advanced_data_structures_in_ruby/victoria.jpg)
+
+- [Victoria's Blog](http://vicfriedman.github.io)
+- [Victoria's GitHub](https://github.com/vicfriedman)
+- [Victoria's Twitter](https://twitter.com/vicfriedman)
