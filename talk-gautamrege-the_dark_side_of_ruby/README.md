@@ -13,7 +13,7 @@ This talk is for beginners and experts alike - in fact, I tag slides to mark the
 * Cherry picking module methods
 * Oniguruma games
 * Object id wierdness
-* procs, blocks and our friend stubby.
+* procs, blocks and our friend stabby.
 * ==, ===, eql? and equal?
 * and more...
 
